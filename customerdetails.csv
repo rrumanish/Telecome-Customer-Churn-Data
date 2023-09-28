@@ -1,0 +1,501 @@
+customer_id,gender,age,marital_status,dependents,contract_type,internet_service,phone_service,multiple_lines,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,monthly_charges,total_charges,churn_status
+554,Female,49,Married,3,Yearly,DSL,Yes,Yes,Yes,No,Yes,No,Yes,Yes,28.50,373.95,Yes
+1655,Female,49,Married,0,Yearly,DSL,No,No,No,Yes,No,Yes,Yes,Yes,86.39,316.93,No
+1938,Female,44,Single,1,Monthly,DSL,No,Yes,No,No,No,No,Yes,No,75.57,852.48,No
+2668,Male,23,Married,2,Monthly,DSL,No,Yes,No,No,No,Yes,Yes,Yes,20.93,994.49,No
+3021,Male,38,Single,1,Monthly,DSL,Yes,No,Yes,Yes,No,No,Yes,Yes,97.73,387.43,Yes
+5169,Male,35,Single,1,Yearly,DSL,No,No,No,No,No,No,Yes,Yes,83.03,980.12,No
+7123,Female,34,Married,1,Monthly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,65.96,578.88,No
+11348,Male,69,Married,0,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,Yes,Yes,4.76,596.11,No
+11552,Female,18,Married,0,Monthly,"Fiber Optic",Yes,Yes,No,No,No,No,No,Yes,61.51,107.32,No
+11556,Male,29,Single,2,Yearly,"Fiber Optic",No,No,No,No,No,No,Yes,Yes,5.30,382.31,No
+11851,Female,21,Married,0,Monthly,DSL,No,Yes,No,Yes,No,Yes,No,No,68.47,294.82,No
+13749,Male,42,Single,2,Yearly,"Fiber Optic",Yes,No,Yes,Yes,No,No,No,No,59.11,74.51,No
+13885,Female,52,Single,3,Yearly,DSL,Yes,Yes,No,No,No,Yes,No,Yes,3.53,851.25,Yes
+14080,Female,48,Single,2,Yearly,DSL,Yes,No,No,No,No,Yes,No,Yes,44.83,920.05,No
+14898,Male,45,Married,2,Monthly,"Fiber Optic",No,No,Yes,No,No,No,No,Yes,55.90,723.64,No
+16968,Male,20,Single,2,Yearly,"Fiber Optic",No,No,Yes,No,No,Yes,No,Yes,72.27,284.53,No
+17359,Female,53,Married,0,Yearly,DSL,Yes,No,No,Yes,No,Yes,No,Yes,54.73,646.59,No
+17399,Female,25,Single,1,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,47.26,171.57,No
+28203,Male,62,Married,3,Yearly,DSL,No,No,No,Yes,No,No,No,Yes,17.00,635.85,No
+28306,Female,30,Married,2,Monthly,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,Yes,Yes,27.95,195.47,Yes
+29810,Male,41,Married,0,Monthly,"Fiber Optic",No,No,No,Yes,Yes,Yes,No,Yes,96.07,831.92,No
+30105,Female,48,Married,1,Monthly,DSL,No,Yes,Yes,No,Yes,Yes,No,No,49.85,485.00,No
+34800,Male,53,Single,3,Monthly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,Yes,Yes,91.84,409.64,No
+36061,Male,32,Single,0,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,Yes,13.49,193.48,No
+37880,Female,76,Married,1,Monthly,"Fiber Optic",Yes,Yes,No,No,No,No,No,Yes,3.45,938.95,No
+38303,Male,24,Married,2,Monthly,DSL,Yes,Yes,No,Yes,No,Yes,Yes,No,74.15,825.90,No
+41230,Female,64,Single,1,Yearly,DSL,No,Yes,Yes,No,No,No,No,No,88.06,92.29,No
+46758,Female,45,Single,0,Yearly,DSL,Yes,Yes,Yes,Yes,No,No,No,Yes,71.57,487.48,No
+50478,Male,37,Married,3,Monthly,DSL,Yes,No,No,Yes,No,No,No,No,94.15,933.88,No
+55908,Male,75,Single,2,Monthly,DSL,Yes,Yes,No,No,No,No,Yes,Yes,70.04,106.72,No
+57714,Male,30,Single,2,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,Yes,Yes,Yes,49.42,348.87,No
+62098,Female,72,Married,2,Yearly,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,42.88,909.29,No
+63528,Female,53,Married,2,Monthly,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,98.05,310.18,No
+63788,Female,42,Single,0,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,No,Yes,Yes,75.73,686.86,Yes
+66907,Female,22,Married,3,Yearly,DSL,No,Yes,Yes,No,Yes,No,Yes,No,65.83,245.93,No
+67341,Female,62,Single,2,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,No,No,50.19,807.22,No
+67763,Female,22,Married,3,Yearly,"Fiber Optic",No,No,No,No,Yes,No,Yes,Yes,83.31,791.45,No
+81684,Female,37,Married,1,Yearly,"Fiber Optic",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,2.07,360.73,No
+81709,Female,47,Single,2,Yearly,DSL,No,No,No,No,Yes,Yes,No,Yes,17.49,786.23,No
+83486,Male,26,Married,3,Monthly,DSL,No,No,Yes,Yes,Yes,No,No,No,26.52,608.24,No
+86285,Male,51,Single,2,Yearly,"Fiber Optic",No,Yes,Yes,Yes,No,Yes,Yes,No,17.93,150.19,No
+89063,Male,77,Single,0,Yearly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,72.69,177.55,No
+89765,Female,74,Married,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,Yes,No,No,38.06,222.27,No
+94064,Male,71,Single,0,Monthly,DSL,Yes,No,No,No,Yes,No,Yes,No,24.73,964.78,Yes
+95987,Male,65,Married,0,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,No,No,82.09,341.64,No
+96566,Female,60,Married,2,Yearly,DSL,Yes,No,No,No,No,No,Yes,Yes,85.61,226.97,No
+101056,Male,50,Single,1,Monthly,DSL,Yes,No,Yes,Yes,Yes,Yes,No,No,25.91,934.75,No
+101180,Male,31,Married,1,Yearly,DSL,No,No,Yes,No,Yes,Yes,No,No,17.97,560.38,No
+102268,Female,75,Married,1,Monthly,"Fiber Optic",No,Yes,No,Yes,Yes,No,No,Yes,92.60,227.67,No
+102648,Female,38,Single,1,Yearly,DSL,No,No,No,No,Yes,No,Yes,Yes,47.48,955.62,No
+102817,Male,45,Married,2,Yearly,"Fiber Optic",No,No,No,No,No,Yes,No,No,84.25,910.57,Yes
+106112,Female,63,Single,1,Yearly,DSL,No,No,Yes,Yes,No,Yes,No,No,94.73,87.53,No
+108076,Male,35,Married,2,Yearly,DSL,Yes,No,No,Yes,No,No,Yes,No,88.68,398.72,No
+108238,Male,32,Married,1,Yearly,DSL,Yes,Yes,No,No,No,Yes,No,No,89.55,618.99,No
+114685,Female,51,Single,1,Yearly,DSL,Yes,No,Yes,Yes,Yes,Yes,No,No,8.75,420.86,No
+115616,Female,28,Single,0,Yearly,"Fiber Optic",Yes,No,No,Yes,No,No,Yes,No,16.49,974.07,No
+116806,Female,43,Single,0,Yearly,"Fiber Optic",No,Yes,No,No,Yes,Yes,No,No,40.90,933.27,No
+118617,Female,30,Married,3,Yearly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,Yes,Yes,8.31,5.81,No
+120935,Female,48,Single,2,Yearly,DSL,Yes,Yes,Yes,Yes,No,No,No,No,68.97,805.27,No
+122294,Male,66,Married,0,Yearly,DSL,Yes,Yes,No,Yes,No,No,No,No,13.14,70.17,No
+122464,Male,65,Single,3,Monthly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,No,87.71,134.30,Yes
+122749,Male,19,Single,0,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,Yes,Yes,No,76.72,396.70,No
+130722,Male,29,Married,2,Yearly,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Yes,24.72,180.05,Yes
+131743,Female,47,Single,0,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,88.49,351.56,Yes
+132040,Male,48,Married,1,Yearly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,58.53,248.00,No
+134934,Female,53,Married,0,Monthly,DSL,Yes,No,No,No,No,Yes,No,No,79.91,140.57,No
+135290,Male,28,Single,0,Monthly,DSL,No,Yes,No,No,Yes,No,Yes,No,58.64,618.64,No
+135650,Male,31,Single,0,Yearly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,42.85,332.61,No
+136830,Male,58,Single,2,Yearly,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,26.50,919.65,No
+139504,Female,30,Married,2,Monthly,"Fiber Optic",No,No,No,Yes,No,Yes,No,No,85.82,402.42,No
+142846,Male,53,Single,0,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,Yes,No,81.11,124.98,Yes
+143912,Male,56,Single,3,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,No,No,5.93,687.93,No
+144086,Male,22,Married,3,Yearly,"Fiber Optic",Yes,No,Yes,Yes,No,Yes,Yes,No,38.26,682.72,No
+151454,Male,68,Married,1,Monthly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,Yes,Yes,18.43,772.86,No
+151706,Male,56,Single,3,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,Yes,No,35.23,888.89,No
+153335,Female,56,Single,3,Yearly,DSL,Yes,No,Yes,Yes,No,Yes,No,Yes,80.96,571.19,No
+154084,Female,64,Single,1,Yearly,"Fiber Optic",Yes,Yes,No,Yes,No,No,Yes,No,74.71,821.09,No
+159291,Male,76,Married,0,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,No,No,91.37,625.25,No
+162114,Female,34,Single,3,Yearly,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes,98.10,748.22,No
+163880,Female,28,Married,3,Monthly,DSL,No,No,No,No,Yes,Yes,No,Yes,32.70,491.87,No
+164180,Female,26,Married,0,Yearly,"Fiber Optic",Yes,No,Yes,No,No,No,Yes,No,75.71,837.45,No
+164677,Female,60,Single,3,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,Yes,Yes,70.98,800.04,No
+164808,Male,65,Married,2,Monthly,DSL,Yes,No,Yes,Yes,No,No,No,Yes,38.51,533.72,No
+168182,Female,72,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,No,5.59,670.58,Yes
+168271,Male,53,Married,3,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,Yes,No,62.90,985.53,Yes
+181071,Female,27,Married,1,Yearly,DSL,No,No,No,Yes,No,No,Yes,Yes,20.42,228.15,No
+181489,Female,44,Married,3,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,No,21.33,444.03,No
+181975,Male,21,Married,1,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,No,No,75.84,17.63,No
+183126,Female,50,Married,3,Monthly,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,No,19.01,777.25,No
+184787,Female,38,Married,3,Yearly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,No,No,78.55,825.33,No
+185263,Female,74,Single,1,Yearly,DSL,Yes,Yes,No,No,No,No,No,Yes,70.96,243.94,Yes
+186655,Female,56,Married,1,Monthly,DSL,No,No,No,Yes,Yes,Yes,Yes,No,4.86,401.43,No
+186731,Male,61,Married,0,Monthly,DSL,No,No,Yes,Yes,No,No,Yes,No,44.78,502.89,Yes
+186970,Female,53,Married,2,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,71.46,556.98,No
+190609,Male,63,Married,3,Yearly,"Fiber Optic",No,No,Yes,No,Yes,Yes,No,No,77.73,272.53,Yes
+192802,Male,35,Single,3,Yearly,DSL,No,No,Yes,No,No,No,No,Yes,0.05,656.45,No
+195564,Female,32,Married,2,Yearly,"Fiber Optic",Yes,No,No,No,Yes,Yes,Yes,No,85.34,392.30,No
+196116,Male,53,Married,2,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,No,No,78.51,36.58,No
+197476,Female,25,Married,1,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,No,10.41,219.42,No
+197628,Female,23,Single,0,Monthly,DSL,No,Yes,Yes,No,Yes,No,Yes,No,46.86,21.09,No
+203140,Male,65,Married,0,Monthly,"Fiber Optic",Yes,No,No,No,No,Yes,No,No,86.44,581.94,No
+203518,Female,20,Single,3,Yearly,DSL,No,Yes,Yes,No,No,Yes,No,No,20.31,288.05,No
+207252,Female,30,Married,0,Monthly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,Yes,No,58.60,294.17,No
+208719,Male,74,Married,0,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,No,No,Yes,97.09,705.54,No
+213321,Male,42,Married,2,Monthly,"Fiber Optic",Yes,No,No,No,No,Yes,No,Yes,95.49,323.78,No
+213826,Male,30,Single,0,Monthly,DSL,No,No,Yes,No,No,No,No,Yes,40.86,848.22,Yes
+215535,Male,22,Single,2,Yearly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,Yes,17.68,472.14,No
+216191,Female,45,Single,2,Yearly,"Fiber Optic",No,Yes,Yes,No,Yes,No,No,Yes,36.13,994.33,No
+218810,Male,53,Single,0,Yearly,DSL,No,No,No,Yes,Yes,No,Yes,Yes,58.12,287.91,No
+222384,Female,74,Single,3,Monthly,DSL,No,Yes,Yes,Yes,No,Yes,No,Yes,13.61,666.56,No
+226698,Male,39,Single,2,Yearly,DSL,No,No,Yes,No,Yes,Yes,No,No,20.31,126.18,Yes
+227744,Male,38,Married,1,Yearly,"Fiber Optic",Yes,Yes,No,Yes,No,No,No,Yes,26.06,843.79,No
+228227,Female,62,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,Yes,No,79.14,445.66,No
+230904,Female,25,Single,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,No,No,87.05,801.83,No
+230984,Female,68,Single,0,Yearly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,No,Yes,17.53,672.25,No
+233691,Male,59,Married,0,Yearly,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,87.73,689.61,No
+235422,Male,65,Married,3,Yearly,DSL,No,Yes,Yes,No,No,No,No,Yes,49.25,336.30,No
+236144,Female,65,Married,3,Yearly,DSL,Yes,Yes,No,No,No,Yes,Yes,No,46.87,479.54,No
+236693,Female,40,Married,3,Yearly,DSL,Yes,No,No,Yes,Yes,Yes,No,No,18.89,458.16,No
+237385,Female,39,Single,2,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,Yes,Yes,79.65,610.17,No
+237739,Male,51,Married,2,Monthly,"Fiber Optic",Yes,No,No,No,Yes,Yes,No,Yes,37.37,631.68,Yes
+240471,Male,18,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,Yes,Yes,7.01,178.61,No
+242445,Female,66,Married,0,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,No,Yes,Yes,17.04,653.36,No
+242648,Female,75,Married,0,Yearly,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Yes,11.34,780.66,No
+244594,Male,20,Single,2,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,No,Yes,No,74.63,762.19,No
+245373,Male,46,Married,2,Yearly,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Yes,62.71,349.20,No
+246061,Female,44,Single,1,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,Yes,No,37.66,654.92,Yes
+246323,Female,74,Single,2,Monthly,DSL,No,No,Yes,No,No,No,Yes,No,70.31,278.53,No
+246481,Male,51,Single,1,Monthly,"Fiber Optic",No,No,Yes,Yes,No,No,No,No,72.50,990.07,No
+246546,Male,66,Single,1,Monthly,"Fiber Optic",No,No,No,No,Yes,No,Yes,No,80.45,174.63,No
+247508,Female,73,Married,1,Monthly,"Fiber Optic",Yes,Yes,No,No,No,Yes,Yes,Yes,30.25,37.83,No
+248407,Male,61,Single,2,Monthly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,No,Yes,43.72,400.10,No
+252765,Female,28,Single,0,Monthly,"Fiber Optic",Yes,No,No,No,Yes,No,No,No,46.39,141.42,No
+255261,Female,35,Single,0,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,Yes,Yes,No,67.51,516.77,No
+256921,Male,27,Single,2,Yearly,"Fiber Optic",Yes,No,No,No,Yes,No,No,Yes,55.37,180.00,No
+257877,Female,55,Married,2,Monthly,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,6.82,314.25,No
+260674,Male,34,Married,3,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,No,No,No,36.27,374.10,No
+261981,Female,68,Single,2,Yearly,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes,89.51,983.67,No
+265733,Female,22,Married,0,Yearly,"Fiber Optic",Yes,No,No,Yes,Yes,No,Yes,No,76.22,569.54,No
+267842,Female,59,Single,3,Monthly,"Fiber Optic",Yes,Yes,No,No,Yes,No,Yes,No,85.38,306.26,No
+270470,Male,26,Married,0,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,No,Yes,86.21,883.41,No
+272430,Male,60,Married,3,Monthly,DSL,Yes,Yes,No,No,Yes,No,No,No,45.29,82.28,Yes
+276038,Female,24,Married,1,Yearly,"Fiber Optic",No,No,No,Yes,No,Yes,Yes,Yes,68.87,97.38,No
+277383,Male,28,Single,3,Yearly,DSL,Yes,No,No,No,No,Yes,No,No,78.07,372.51,No
+279850,Male,51,Single,0,Yearly,"Fiber Optic",No,No,No,Yes,No,Yes,No,Yes,21.99,243.91,No
+280052,Female,28,Married,3,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,63.68,833.20,No
+281163,Male,44,Married,3,Yearly,"Fiber Optic",Yes,Yes,Yes,No,Yes,Yes,No,Yes,76.30,2.49,No
+281653,Female,55,Married,1,Yearly,DSL,Yes,No,Yes,No,No,Yes,No,No,63.81,120.79,No
+286634,Female,39,Single,1,Yearly,"Fiber Optic",Yes,Yes,No,No,No,Yes,Yes,Yes,99.01,855.38,No
+291068,Male,68,Married,1,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,No,Yes,No,78.59,922.60,No
+291350,Female,74,Single,1,Monthly,DSL,No,No,Yes,Yes,Yes,No,Yes,Yes,20.10,877.10,No
+291386,Female,41,Married,2,Monthly,DSL,No,No,Yes,Yes,Yes,No,No,Yes,30.63,835.18,No
+292502,Female,20,Married,1,Monthly,DSL,No,No,Yes,Yes,No,No,Yes,No,74.91,155.38,No
+294681,Female,33,Married,1,Monthly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,Yes,17.27,800.39,No
+296207,Male,32,Single,0,Yearly,"Fiber Optic",Yes,No,No,No,No,Yes,No,No,66.72,806.06,Yes
+296774,Male,55,Married,1,Yearly,DSL,No,Yes,No,Yes,Yes,Yes,No,Yes,8.85,393.84,No
+298038,Female,59,Married,1,Yearly,"Fiber Optic",No,Yes,No,Yes,No,No,No,No,62.54,334.43,No
+298994,Male,48,Married,3,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,Yes,Yes,97.22,645.49,No
+300982,Female,18,Married,1,Yearly,DSL,No,No,No,No,Yes,No,Yes,No,71.33,661.65,Yes
+304173,Male,30,Single,0,Yearly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,Yes,Yes,30.06,599.05,Yes
+306062,Female,19,Married,2,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,Yes,No,48.60,314.03,Yes
+307249,Male,27,Married,1,Monthly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,No,No,56.27,303.94,No
+307836,Female,65,Married,1,Yearly,DSL,No,No,Yes,No,No,No,No,No,27.68,375.11,Yes
+311169,Female,72,Single,2,Yearly,"Fiber Optic",No,Yes,Yes,No,Yes,Yes,No,No,20.57,610.98,No
+314016,Male,61,Single,3,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,Yes,No,75.66,796.96,No
+314416,Male,35,Married,2,Yearly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,No,Yes,72.68,245.20,Yes
+323410,Female,76,Single,2,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,47.89,722.41,Yes
+326378,Female,75,Single,0,Yearly,DSL,No,Yes,Yes,No,No,No,Yes,Yes,40.68,477.56,Yes
+326617,Female,42,Single,3,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,No,No,85.58,384.89,No
+328517,Female,22,Single,2,Monthly,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,86.66,116.10,No
+328632,Female,72,Single,0,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,No,No,No,4.32,702.34,No
+329174,Male,54,Married,2,Monthly,DSL,No,Yes,No,No,No,Yes,No,Yes,31.96,203.76,Yes
+335989,Female,73,Single,2,Yearly,DSL,Yes,No,No,Yes,No,Yes,Yes,Yes,80.80,863.16,No
+336900,Female,69,Single,0,Yearly,"Fiber Optic",No,No,No,Yes,Yes,No,Yes,No,68.93,497.57,No
+343251,Female,31,Single,1,Yearly,"Fiber Optic",Yes,No,No,No,Yes,Yes,Yes,No,67.84,94.84,No
+346253,Male,21,Single,3,Yearly,DSL,Yes,Yes,No,Yes,No,Yes,No,Yes,6.35,658.16,Yes
+349093,Female,25,Married,1,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,No,Yes,Yes,60.57,992.02,Yes
+349489,Male,50,Married,0,Monthly,DSL,No,No,Yes,Yes,No,Yes,No,No,60.45,188.94,Yes
+350201,Female,69,Single,0,Monthly,"Fiber Optic",No,Yes,No,No,Yes,No,Yes,Yes,51.29,894.14,No
+353332,Female,68,Single,3,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,No,No,56.48,396.00,No
+355758,Male,33,Single,3,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,Yes,No,18.75,345.29,Yes
+364404,Male,31,Single,0,Monthly,DSL,No,Yes,Yes,Yes,No,No,Yes,No,38.12,664.04,Yes
+364811,Male,42,Single,2,Monthly,DSL,Yes,No,Yes,No,Yes,Yes,No,Yes,77.81,756.10,No
+364877,Male,23,Married,2,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,No,No,31.95,657.39,No
+365486,Male,32,Married,1,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,No,Yes,Yes,45.68,222.42,No
+369749,Female,64,Single,1,Monthly,"Fiber Optic",No,No,No,Yes,No,Yes,Yes,Yes,54.22,321.91,No
+370454,Male,45,Single,0,Monthly,"Fiber Optic",No,Yes,No,No,Yes,Yes,No,Yes,3.41,783.29,No
+374294,Female,23,Single,1,Monthly,DSL,Yes,Yes,No,No,No,Yes,No,Yes,92.17,402.88,No
+374519,Female,59,Single,2,Monthly,DSL,No,No,No,No,No,Yes,Yes,No,66.68,724.69,No
+380302,Male,44,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,82.46,443.97,No
+384530,Male,35,Single,0,Monthly,DSL,Yes,No,No,No,Yes,No,Yes,Yes,11.43,394.40,No
+393166,Male,69,Married,2,Yearly,DSL,Yes,No,No,No,Yes,No,Yes,Yes,4.36,483.22,No
+393466,Male,70,Married,3,Monthly,DSL,Yes,Yes,Yes,Yes,Yes,No,Yes,No,78.53,893.07,Yes
+394666,Female,36,Single,0,Yearly,DSL,No,No,No,No,No,Yes,No,No,75.44,623.17,No
+396352,Female,56,Married,2,Monthly,DSL,No,No,No,Yes,No,Yes,Yes,Yes,16.40,254.15,No
+396544,Female,26,Single,3,Yearly,"Fiber Optic",No,No,Yes,Yes,No,Yes,No,No,82.56,504.84,Yes
+398534,Female,52,Single,1,Yearly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,No,32.49,678.63,No
+400354,Male,32,Single,3,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,Yes,Yes,36.78,387.19,No
+403197,Male,29,Married,3,Monthly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,No,4.08,474.36,No
+403412,Male,57,Married,2,Monthly,DSL,No,Yes,No,No,Yes,No,No,Yes,22.00,603.58,No
+404242,Female,40,Married,2,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,No,No,Yes,56.12,539.60,Yes
+404771,Female,75,Single,2,Monthly,DSL,Yes,No,Yes,No,Yes,Yes,No,No,4.20,1.49,No
+408163,Male,55,Single,0,Yearly,"Fiber Optic",No,Yes,No,No,Yes,Yes,Yes,Yes,14.88,989.44,No
+410438,Male,33,Single,0,Monthly,DSL,No,Yes,No,Yes,Yes,Yes,No,No,86.35,532.63,Yes
+415250,Female,64,Married,3,Monthly,DSL,No,Yes,No,Yes,Yes,No,Yes,No,41.08,495.41,No
+418304,Male,40,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,Yes,Yes,No,96.97,714.09,No
+418487,Male,34,Married,2,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,Yes,Yes,No,33.19,896.92,No
+419020,Male,42,Married,3,Monthly,DSL,Yes,Yes,No,Yes,No,No,Yes,Yes,43.59,706.79,No
+421743,Male,40,Single,0,Yearly,DSL,No,No,No,Yes,No,No,No,No,53.48,135.50,Yes
+422589,Female,71,Single,0,Yearly,"Fiber Optic",No,No,No,Yes,No,Yes,No,No,55.99,831.25,No
+423252,Male,22,Married,3,Yearly,"Fiber Optic",No,Yes,No,No,No,Yes,Yes,Yes,36.05,318.15,No
+423508,Female,56,Married,1,Yearly,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,91.23,177.87,Yes
+426138,Male,66,Married,1,Yearly,DSL,No,No,Yes,Yes,No,Yes,No,No,15.36,837.57,No
+427222,Male,73,Married,3,Monthly,"Fiber Optic",No,No,Yes,Yes,No,Yes,Yes,Yes,63.58,257.26,No
+430084,Male,56,Married,1,Monthly,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,53.30,495.26,No
+431531,Female,36,Married,0,Monthly,"Fiber Optic",No,No,Yes,No,Yes,No,No,No,46.47,447.42,No
+433614,Male,32,Married,2,Monthly,DSL,Yes,Yes,No,No,Yes,Yes,Yes,Yes,76.91,210.47,No
+434217,Male,38,Single,2,Yearly,DSL,Yes,No,Yes,No,No,Yes,No,Yes,53.17,266.01,No
+434404,Male,21,Married,1,Monthly,DSL,Yes,No,No,No,Yes,Yes,No,Yes,71.95,555.70,No
+434945,Female,73,Single,2,Monthly,DSL,Yes,Yes,Yes,No,No,Yes,No,Yes,42.62,955.73,No
+435675,Female,28,Single,1,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,No,No,No,53.17,836.62,No
+438505,Male,54,Married,2,Yearly,DSL,No,Yes,Yes,Yes,No,No,Yes,Yes,88.99,246.20,No
+442971,Female,52,Married,3,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,No,49.99,973.04,No
+445215,Female,56,Married,1,Monthly,DSL,Yes,Yes,No,No,Yes,No,No,No,9.02,169.01,No
+446160,Male,47,Single,0,Monthly,"Fiber Optic",Yes,No,No,No,Yes,Yes,No,Yes,83.09,161.23,No
+446473,Female,57,Single,2,Monthly,"Fiber Optic",No,Yes,Yes,Yes,No,No,Yes,Yes,94.02,715.03,No
+449744,Female,60,Married,1,Monthly,DSL,No,No,No,No,Yes,No,No,No,38.79,289.38,No
+451016,Male,69,Married,0,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,No,Yes,38.88,611.99,No
+451519,Male,40,Single,0,Monthly,"Fiber Optic",No,Yes,No,No,No,Yes,Yes,No,96.97,62.60,No
+452540,Male,62,Married,0,Yearly,"Fiber Optic",No,Yes,No,No,No,No,No,Yes,41.80,84.58,Yes
+453092,Female,18,Single,3,Yearly,"Fiber Optic",No,Yes,No,No,No,No,No,Yes,81.26,983.26,No
+456052,Female,60,Single,2,Monthly,DSL,Yes,No,No,No,Yes,No,No,Yes,76.49,819.57,No
+461200,Female,53,Married,0,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,No,Yes,Yes,76.94,979.37,No
+461514,Female,25,Married,1,Monthly,"Fiber Optic",No,No,Yes,No,No,No,Yes,Yes,41.73,601.94,No
+464064,Male,72,Single,0,Monthly,DSL,No,No,No,Yes,No,Yes,No,Yes,40.58,817.95,No
+465156,Female,67,Single,1,Monthly,DSL,Yes,No,No,Yes,No,No,Yes,Yes,3.54,170.97,No
+467199,Female,31,Married,0,Yearly,DSL,Yes,Yes,No,Yes,Yes,Yes,No,No,37.32,606.18,No
+470191,Male,38,Single,1,Yearly,DSL,No,No,Yes,No,No,Yes,No,No,72.00,821.24,No
+470299,Female,59,Single,3,Monthly,DSL,Yes,No,No,No,No,No,Yes,No,78.01,76.33,Yes
+470540,Female,48,Single,1,Yearly,"Fiber Optic",No,No,No,No,No,Yes,Yes,No,89.96,668.58,No
+473052,Female,75,Single,0,Yearly,"Fiber Optic",Yes,Yes,No,No,No,No,No,Yes,41.41,960.57,No
+476281,Female,27,Married,2,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,No,Yes,No,55.74,583.23,No
+476852,Male,52,Single,2,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,No,No,68.06,684.36,No
+483847,Male,44,Single,0,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,No,No,15.95,350.95,No
+484600,Female,69,Single,3,Monthly,DSL,Yes,No,No,No,No,No,No,No,19.75,222.43,No
+489514,Female,43,Single,3,Monthly,DSL,No,Yes,No,No,Yes,Yes,No,No,52.07,60.46,No
+492138,Female,26,Single,0,Yearly,DSL,No,No,Yes,No,No,No,No,Yes,33.09,238.87,No
+492509,Male,27,Single,1,Yearly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,No,92.35,968.32,Yes
+494390,Male,24,Single,1,Yearly,DSL,Yes,No,No,No,No,No,No,No,30.17,622.45,No
+496488,Male,50,Single,3,Monthly,DSL,No,Yes,Yes,Yes,No,Yes,No,No,48.35,754.65,No
+498240,Male,76,Married,3,Yearly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,Yes,36.94,794.87,No
+499480,Female,30,Single,1,Monthly,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,57.33,277.17,No
+501525,Male,57,Married,0,Yearly,"Fiber Optic",No,Yes,Yes,No,No,No,Yes,No,6.74,808.84,No
+502703,Male,54,Single,3,Yearly,DSL,No,Yes,No,Yes,No,Yes,No,Yes,74.93,880.75,Yes
+508101,Female,39,Married,0,Monthly,DSL,Yes,No,Yes,Yes,Yes,No,Yes,Yes,53.18,53.28,No
+511614,Male,44,Single,3,Yearly,"Fiber Optic",No,Yes,No,No,Yes,Yes,Yes,Yes,56.34,637.78,No
+513976,Male,51,Single,0,Yearly,DSL,Yes,No,Yes,Yes,No,Yes,No,No,75.61,822.78,No
+514828,Male,23,Single,0,Yearly,"Fiber Optic",No,No,No,No,No,No,No,No,98.86,788.83,No
+516671,Female,50,Married,2,Monthly,DSL,Yes,Yes,No,Yes,Yes,No,No,No,78.08,88.83,Yes
+519905,Female,51,Single,0,Monthly,DSL,No,No,No,Yes,No,Yes,Yes,Yes,40.74,942.51,No
+520181,Male,38,Single,3,Monthly,DSL,Yes,No,No,Yes,No,No,No,Yes,18.44,516.65,Yes
+521659,Male,37,Married,1,Yearly,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,Yes,73.92,392.31,No
+525758,Female,71,Married,0,Yearly,DSL,Yes,Yes,Yes,No,No,No,No,Yes,64.78,414.62,Yes
+526748,Male,23,Married,3,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,No,22.10,684.12,No
+529461,Female,73,Single,3,Yearly,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,34.73,207.40,No
+531199,Female,45,Married,3,Monthly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,No,Yes,39.51,164.69,No
+534457,Female,56,Single,1,Yearly,"Fiber Optic",No,Yes,No,Yes,No,No,No,No,61.99,358.77,No
+535168,Female,27,Single,0,Monthly,DSL,Yes,No,Yes,No,Yes,Yes,Yes,Yes,99.51,721.74,No
+535316,Male,33,Single,0,Yearly,DSL,Yes,No,No,No,No,Yes,No,No,78.99,130.84,No
+535317,Female,75,Married,1,Yearly,"Fiber Optic",No,Yes,No,Yes,No,No,No,Yes,47.70,233.66,No
+536798,Male,56,Married,1,Yearly,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,41.90,808.91,No
+543091,Male,44,Single,2,Yearly,"Fiber Optic",No,Yes,No,No,Yes,No,No,Yes,41.01,48.41,Yes
+543401,Male,65,Single,0,Monthly,"Fiber Optic",Yes,No,No,Yes,No,No,No,Yes,95.60,301.83,No
+548275,Female,66,Married,2,Monthly,DSL,No,Yes,No,No,Yes,Yes,No,No,64.09,676.88,No
+550219,Female,67,Married,2,Monthly,DSL,Yes,No,Yes,No,Yes,No,No,No,56.52,178.67,Yes
+555352,Female,48,Married,2,Monthly,DSL,No,Yes,Yes,Yes,No,No,Yes,Yes,10.66,97.38,Yes
+556806,Male,30,Single,3,Yearly,DSL,No,Yes,Yes,No,No,Yes,No,No,10.41,661.97,No
+568705,Male,31,Single,0,Yearly,"Fiber Optic",No,Yes,Yes,Yes,No,Yes,Yes,No,8.96,824.82,No
+569519,Male,67,Single,2,Monthly,"Fiber Optic",Yes,No,No,No,No,No,Yes,Yes,86.21,303.87,No
+571960,Male,68,Married,3,Monthly,DSL,Yes,No,Yes,Yes,No,No,Yes,No,13.58,101.04,Yes
+572302,Female,32,Married,1,Yearly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,98.88,254.49,No
+572646,Male,59,Married,0,Yearly,DSL,Yes,Yes,Yes,No,No,No,No,Yes,3.71,16.12,No
+573106,Female,35,Single,1,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,No,Yes,No,89.54,587.74,No
+573839,Male,20,Single,2,Monthly,DSL,Yes,No,Yes,No,No,No,No,No,41.88,475.57,Yes
+580238,Male,35,Married,0,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,No,Yes,Yes,86.49,635.27,No
+580580,Male,49,Married,2,Monthly,DSL,Yes,Yes,No,No,Yes,No,Yes,No,81.03,106.42,Yes
+583267,Female,69,Married,0,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,No,Yes,94.39,424.80,No
+583647,Male,75,Single,0,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,No,Yes,78.22,531.95,No
+584691,Female,33,Single,2,Monthly,"Fiber Optic",Yes,No,Yes,No,No,No,Yes,No,69.85,995.50,No
+587144,Female,19,Married,0,Monthly,DSL,Yes,Yes,No,No,No,Yes,No,Yes,46.06,417.66,No
+587535,Male,37,Married,3,Monthly,DSL,No,Yes,No,Yes,No,Yes,No,Yes,95.94,522.40,No
+590216,Male,45,Single,1,Yearly,DSL,Yes,No,No,Yes,Yes,No,No,Yes,43.43,106.32,No
+591185,Male,40,Single,2,Yearly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,Yes,Yes,25.91,699.12,No
+594986,Male,22,Single,0,Yearly,"Fiber Optic",Yes,No,No,No,No,No,Yes,Yes,36.17,918.09,No
+600739,Female,38,Married,3,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,Yes,No,Yes,45.99,963.89,No
+600812,Female,63,Married,0,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,Yes,65.50,92.19,No
+607339,Female,72,Married,3,Yearly,DSL,Yes,Yes,No,No,Yes,Yes,No,Yes,69.32,398.54,No
+607800,Female,22,Married,3,Monthly,"Fiber Optic",No,Yes,No,No,No,Yes,No,No,98.66,234.04,No
+610342,Female,52,Married,1,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,No,No,78.05,841.99,No
+614120,Male,36,Married,1,Yearly,DSL,Yes,No,Yes,No,No,No,No,Yes,7.44,330.92,No
+614508,Male,23,Married,0,Monthly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,No,Yes,59.42,752.04,No
+615466,Female,24,Single,1,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,No,No,Yes,86.88,235.24,No
+615688,Female,33,Single,1,Monthly,DSL,No,Yes,No,Yes,Yes,Yes,No,Yes,20.09,570.11,No
+618108,Male,74,Married,0,Monthly,DSL,Yes,No,No,No,No,No,No,Yes,90.21,330.71,No
+619246,Female,74,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,Yes,No,Yes,73.73,141.90,No
+622853,Male,68,Married,1,Yearly,DSL,No,No,Yes,No,Yes,No,No,Yes,71.08,445.16,Yes
+624279,Male,49,Single,1,Yearly,"Fiber Optic",No,Yes,No,No,No,No,No,Yes,94.66,788.31,Yes
+624809,Female,41,Single,3,Yearly,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,34.80,975.80,No
+624898,Female,55,Married,1,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,Yes,Yes,41.59,71.29,Yes
+627093,Male,66,Single,2,Yearly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,Yes,Yes,99.38,966.91,No
+628099,Female,47,Single,3,Yearly,DSL,Yes,No,Yes,No,Yes,No,No,Yes,35.75,446.69,Yes
+628394,Female,26,Single,0,Monthly,DSL,Yes,No,No,Yes,Yes,No,No,No,64.30,18.59,Yes
+630407,Male,48,Married,0,Monthly,DSL,No,No,Yes,No,Yes,No,Yes,Yes,68.66,815.17,Yes
+631715,Male,47,Married,2,Monthly,DSL,Yes,Yes,No,Yes,Yes,No,Yes,Yes,10.57,215.90,No
+632193,Male,76,Single,2,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,No,No,52.28,296.64,No
+632604,Male,33,Single,0,Yearly,DSL,No,Yes,Yes,No,No,Yes,Yes,Yes,9.23,296.73,No
+632881,Female,43,Married,1,Monthly,"Fiber Optic",No,No,Yes,No,Yes,No,No,No,36.53,270.46,No
+632998,Male,75,Single,2,Yearly,"Fiber Optic",Yes,Yes,No,Yes,Yes,Yes,No,Yes,59.07,761.20,Yes
+635106,Male,61,Married,0,Monthly,"Fiber Optic",No,Yes,No,No,No,No,Yes,No,9.25,693.44,Yes
+638707,Male,49,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,No,No,No,Yes,No,31.52,976.33,No
+653989,Female,66,Married,1,Monthly,"Fiber Optic",No,Yes,No,Yes,No,Yes,Yes,Yes,30.66,810.03,Yes
+654145,Female,68,Married,3,Yearly,"Fiber Optic",No,No,Yes,Yes,Yes,No,No,No,10.12,588.34,No
+661117,Male,49,Married,0,Monthly,"Fiber Optic",No,No,No,Yes,Yes,No,Yes,Yes,33.28,637.70,Yes
+665062,Male,28,Single,1,Yearly,"Fiber Optic",Yes,No,No,Yes,No,No,No,Yes,43.93,8.65,No
+667645,Female,52,Single,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,No,No,Yes,81.45,926.45,Yes
+669349,Male,66,Single,0,Monthly,"Fiber Optic",Yes,No,No,No,Yes,Yes,Yes,Yes,50.07,38.16,No
+670580,Female,36,Single,3,Monthly,"Fiber Optic",No,Yes,No,No,Yes,No,Yes,No,89.43,532.74,No
+670858,Male,39,Single,2,Yearly,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,30.97,244.62,No
+673256,Male,60,Married,2,Monthly,"Fiber Optic",Yes,Yes,Yes,No,No,No,Yes,Yes,15.71,779.36,No
+675996,Female,54,Married,2,Yearly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,Yes,Yes,30.56,105.69,No
+677794,Female,50,Single,1,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,Yes,Yes,86.18,938.34,Yes
+677876,Female,46,Married,3,Monthly,DSL,No,Yes,No,Yes,No,Yes,No,Yes,37.96,311.65,No
+680847,Male,39,Married,2,Monthly,"Fiber Optic",Yes,Yes,Yes,No,No,Yes,No,No,7.57,643.79,No
+682260,Male,36,Single,3,Yearly,DSL,No,Yes,No,No,No,No,Yes,No,67.20,94.89,No
+684351,Female,37,Single,0,Yearly,DSL,Yes,No,No,Yes,Yes,No,No,No,25.04,706.31,No
+685218,Male,46,Married,3,Monthly,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,4.72,897.38,No
+688513,Male,32,Married,2,Monthly,"Fiber Optic",No,Yes,No,No,Yes,Yes,Yes,No,88.38,576.52,No
+691243,Male,36,Married,2,Yearly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,Yes,No,99.23,586.43,No
+694732,Female,76,Married,1,Monthly,DSL,No,Yes,No,No,No,No,No,Yes,93.86,736.10,No
+697350,Female,64,Married,1,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,Yes,49.95,383.89,No
+697958,Female,39,Single,1,Yearly,"Fiber Optic",Yes,No,No,Yes,No,No,No,Yes,35.41,664.08,No
+705005,Male,65,Married,2,Monthly,DSL,No,No,Yes,Yes,No,Yes,Yes,Yes,35.41,618.92,Yes
+709826,Male,77,Single,1,Monthly,DSL,Yes,Yes,No,Yes,Yes,Yes,Yes,No,91.56,998.25,No
+711669,Male,42,Single,1,Monthly,DSL,Yes,Yes,Yes,No,No,Yes,Yes,Yes,43.08,77.20,Yes
+713266,Female,63,Single,3,Monthly,"Fiber Optic",No,Yes,No,No,Yes,Yes,No,Yes,33.40,80.13,No
+715533,Female,66,Single,3,Yearly,"Fiber Optic",No,No,No,Yes,No,No,Yes,Yes,62.15,668.49,No
+716845,Male,28,Married,3,Monthly,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes,38.80,724.66,No
+721376,Female,55,Single,1,Yearly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,Yes,Yes,41.12,827.46,No
+721425,Male,57,Single,3,Yearly,DSL,No,No,Yes,No,No,No,No,Yes,9.20,225.07,No
+722136,Male,49,Single,1,Yearly,DSL,Yes,No,Yes,Yes,Yes,Yes,No,No,33.40,759.13,No
+722840,Male,29,Single,0,Yearly,DSL,Yes,No,No,Yes,No,Yes,No,No,75.69,70.52,Yes
+724739,Female,48,Single,1,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,54.26,900.30,No
+729986,Female,62,Single,1,Monthly,"Fiber Optic",No,No,No,No,Yes,Yes,No,No,34.20,903.07,No
+730025,Male,77,Married,0,Monthly,"Fiber Optic",Yes,Yes,No,No,No,No,Yes,No,15.31,185.93,No
+731565,Male,58,Single,1,Yearly,"Fiber Optic",No,Yes,No,Yes,No,Yes,No,No,29.93,543.91,No
+735021,Male,66,Single,2,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,Yes,Yes,27.62,186.62,Yes
+735180,Male,61,Married,0,Monthly,DSL,No,No,No,No,Yes,No,No,Yes,4.92,224.82,No
+736537,Female,50,Single,2,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,Yes,Yes,Yes,18.05,265.60,No
+736787,Female,65,Single,2,Yearly,"Fiber Optic",No,Yes,No,No,No,Yes,No,Yes,83.84,379.68,No
+738060,Male,71,Single,1,Monthly,DSL,No,Yes,Yes,No,No,No,No,Yes,25.12,737.70,No
+738233,Female,52,Single,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,Yes,Yes,1.67,144.46,No
+738435,Male,24,Single,1,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,No,No,Yes,41.42,542.84,No
+739856,Female,24,Single,1,Monthly,DSL,No,Yes,Yes,No,No,No,Yes,Yes,57.88,648.61,No
+741449,Female,26,Married,3,Monthly,DSL,No,No,No,Yes,No,Yes,No,Yes,0.35,703.99,No
+744021,Female,27,Married,1,Monthly,DSL,No,No,No,Yes,Yes,Yes,No,Yes,22.47,976.90,No
+746069,Male,44,Married,2,Yearly,"Fiber Optic",No,No,No,Yes,No,No,No,No,49.11,355.38,No
+750750,Male,22,Single,2,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,No,No,No,88.15,363.14,Yes
+751298,Male,23,Single,0,Monthly,DSL,No,Yes,No,Yes,Yes,Yes,Yes,No,14.06,766.81,No
+751395,Female,47,Single,2,Yearly,"Fiber Optic",Yes,No,No,Yes,No,No,No,No,77.25,587.79,No
+752400,Female,52,Married,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,No,No,No,38.75,358.85,No
+753293,Female,52,Single,0,Monthly,"Fiber Optic",No,No,No,No,Yes,No,No,Yes,12.70,494.45,Yes
+754096,Male,33,Married,0,Monthly,DSL,Yes,No,No,No,Yes,No,Yes,No,56.86,892.05,No
+759811,Male,19,Married,3,Yearly,DSL,No,No,Yes,No,Yes,Yes,Yes,Yes,2.02,904.09,No
+760020,Male,50,Single,2,Yearly,DSL,Yes,Yes,Yes,No,No,Yes,Yes,No,24.63,295.38,No
+760685,Female,51,Married,2,Monthly,DSL,No,No,Yes,No,No,Yes,No,Yes,50.12,833.89,No
+763949,Male,38,Single,2,Monthly,"Fiber Optic",No,No,No,Yes,No,Yes,Yes,Yes,88.18,591.43,No
+765884,Female,63,Single,2,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,No,No,Yes,74.93,888.65,Yes
+766624,Female,34,Single,1,Yearly,"Fiber Optic",Yes,No,No,No,Yes,No,Yes,No,39.90,833.39,No
+772286,Male,18,Single,0,Monthly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,No,47.54,650.97,No
+772431,Male,42,Married,3,Monthly,DSL,No,No,Yes,No,Yes,Yes,Yes,No,40.82,209.97,No
+774146,Male,26,Married,2,Yearly,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Yes,52.35,174.60,No
+777277,Female,39,Single,2,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,Yes,Yes,No,40.46,180.86,No
+778482,Male,35,Married,2,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,Yes,Yes,1.97,175.64,No
+778939,Male,34,Married,1,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,Yes,No,70.04,945.36,No
+779176,Male,65,Single,0,Yearly,"Fiber Optic",No,Yes,No,No,Yes,No,Yes,Yes,99.40,245.55,No
+783097,Female,45,Single,2,Monthly,"Fiber Optic",Yes,No,Yes,Yes,No,Yes,Yes,Yes,28.32,496.06,No
+783141,Male,76,Married,1,Yearly,DSL,Yes,Yes,Yes,No,Yes,No,Yes,No,57.52,631.28,No
+783314,Male,54,Single,1,Yearly,DSL,No,No,No,Yes,No,No,No,Yes,71.72,101.03,No
+783600,Female,49,Single,0,Monthly,DSL,Yes,Yes,Yes,No,Yes,Yes,Yes,No,92.26,67.19,No
+783822,Male,65,Single,3,Monthly,DSL,Yes,No,No,Yes,No,No,No,No,3.87,455.31,Yes
+784152,Female,52,Single,3,Yearly,"Fiber Optic",Yes,No,No,Yes,Yes,Yes,Yes,No,0.81,451.01,No
+789438,Female,36,Married,3,Monthly,DSL,No,Yes,No,No,No,Yes,Yes,Yes,25.20,223.23,No
+790091,Female,56,Married,0,Monthly,"Fiber Optic",Yes,No,No,Yes,No,No,No,No,62.98,611.28,Yes
+790213,Female,77,Single,3,Monthly,"Fiber Optic",No,Yes,Yes,No,No,No,No,Yes,62.70,253.30,No
+793865,Female,42,Married,2,Monthly,"Fiber Optic",No,No,No,No,Yes,No,No,Yes,7.11,969.26,No
+795254,Male,24,Married,3,Monthly,"Fiber Optic",Yes,No,Yes,No,No,Yes,No,Yes,29.83,949.32,No
+796986,Female,32,Married,1,Yearly,DSL,Yes,Yes,No,Yes,No,No,No,Yes,95.47,653.57,No
+797172,Male,44,Married,0,Yearly,"Fiber Optic",Yes,Yes,Yes,No,No,No,Yes,Yes,22.66,730.88,No
+797791,Male,18,Single,0,Yearly,DSL,Yes,Yes,No,Yes,No,Yes,Yes,Yes,10.24,679.59,Yes
+798859,Female,76,Married,0,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,No,Yes,7.70,149.58,No
+800386,Female,35,Married,1,Monthly,DSL,No,No,Yes,Yes,No,No,No,Yes,0.44,580.03,No
+801452,Male,28,Single,3,Monthly,DSL,No,Yes,No,Yes,Yes,Yes,No,Yes,29.79,878.71,No
+802804,Male,67,Single,2,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,No,Yes,Yes,83.46,233.89,No
+804080,Female,75,Married,3,Monthly,DSL,Yes,No,Yes,Yes,Yes,No,No,Yes,60.70,222.76,No
+804380,Female,55,Single,2,Monthly,DSL,No,Yes,Yes,Yes,No,No,No,Yes,3.39,664.13,No
+808140,Male,69,Single,0,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,No,Yes,73.44,719.85,No
+811807,Female,50,Married,0,Monthly,DSL,No,No,Yes,No,No,No,Yes,Yes,54.33,633.93,No
+813738,Male,71,Married,2,Monthly,DSL,Yes,Yes,Yes,Yes,Yes,No,No,Yes,44.80,211.00,No
+816669,Male,74,Married,1,Yearly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,Yes,No,6.18,802.65,No
+817387,Female,22,Single,3,Monthly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,Yes,55.44,574.49,No
+818532,Female,58,Single,1,Monthly,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,Yes,No,15.81,316.18,Yes
+820413,Female,24,Single,2,Monthly,DSL,No,Yes,Yes,No,Yes,Yes,No,No,49.81,556.87,No
+821464,Female,64,Single,1,Monthly,DSL,Yes,Yes,Yes,No,No,No,Yes,Yes,33.31,293.79,No
+823971,Male,59,Married,3,Yearly,DSL,No,Yes,Yes,Yes,Yes,Yes,No,Yes,85.37,935.88,Yes
+824565,Male,41,Single,0,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,No,No,No,66.85,742.82,No
+826828,Female,24,Married,1,Monthly,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,67.94,985.51,No
+827256,Male,49,Married,2,Monthly,"Fiber Optic",Yes,No,No,No,Yes,No,No,No,45.98,413.81,No
+827336,Male,30,Single,2,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,Yes,No,No,33.25,63.92,No
+827355,Male,69,Married,3,Yearly,DSL,No,No,Yes,No,Yes,Yes,Yes,No,69.58,512.00,No
+830266,Female,32,Married,0,Yearly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,59.90,989.44,Yes
+831412,Female,32,Married,3,Yearly,DSL,No,No,Yes,No,No,No,Yes,Yes,20.37,780.54,No
+832958,Female,75,Married,2,Monthly,DSL,Yes,Yes,Yes,No,No,Yes,No,No,41.78,194.62,No
+836773,Male,57,Single,0,Monthly,"Fiber Optic",Yes,Yes,Yes,Yes,No,Yes,No,No,13.92,887.89,Yes
+841361,Female,19,Married,3,Monthly,DSL,Yes,Yes,Yes,No,No,Yes,No,No,39.00,985.59,No
+841431,Male,64,Single,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,Yes,Yes,No,67.17,153.28,No
+847597,Male,74,Married,1,Monthly,"Fiber Optic",No,No,Yes,No,Yes,No,Yes,No,52.63,89.01,No
+856229,Female,36,Married,1,Yearly,"Fiber Optic",Yes,No,No,Yes,No,Yes,Yes,No,2.95,313.11,No
+857946,Female,72,Married,2,Yearly,DSL,No,Yes,No,No,No,Yes,No,No,55.13,454.13,No
+862439,Female,46,Single,1,Yearly,"Fiber Optic",No,No,No,Yes,No,Yes,Yes,No,29.67,340.02,No
+863956,Male,73,Single,3,Monthly,DSL,No,No,Yes,Yes,No,Yes,Yes,No,11.52,636.78,No
+867663,Female,32,Single,3,Monthly,"Fiber Optic",Yes,No,No,Yes,Yes,No,No,No,13.56,843.43,No
+868616,Male,45,Married,0,Monthly,"Fiber Optic",No,No,Yes,No,No,Yes,Yes,No,54.38,516.85,No
+869155,Female,62,Single,1,Yearly,"Fiber Optic",Yes,No,Yes,No,No,No,Yes,No,39.37,128.59,No
+872144,Female,50,Married,1,Yearly,DSL,Yes,Yes,No,Yes,No,No,No,No,97.84,28.12,No
+873142,Female,39,Married,3,Yearly,DSL,No,No,No,Yes,No,Yes,Yes,Yes,25.94,557.54,Yes
+876271,Male,33,Single,3,Yearly,"Fiber Optic",Yes,Yes,No,No,Yes,No,No,No,28.06,385.50,Yes
+878302,Male,22,Married,2,Yearly,DSL,Yes,No,Yes,No,Yes,Yes,No,Yes,67.28,978.95,No
+881353,Male,59,Married,0,Monthly,DSL,No,No,Yes,Yes,No,Yes,No,No,16.73,542.78,No
+881451,Male,33,Single,3,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,No,Yes,46.35,693.95,Yes
+885552,Male,76,Single,2,Monthly,"Fiber Optic",Yes,No,No,Yes,No,No,No,No,30.51,13.11,Yes
+888355,Male,60,Married,1,Yearly,"Fiber Optic",Yes,No,Yes,No,Yes,Yes,Yes,No,71.14,957.46,No
+888934,Female,22,Married,1,Monthly,DSL,No,No,Yes,No,No,No,Yes,No,82.28,648.88,No
+889476,Male,43,Married,3,Yearly,DSL,No,Yes,Yes,No,Yes,Yes,Yes,Yes,41.55,400.28,No
+889532,Male,72,Single,0,Monthly,DSL,No,No,Yes,No,Yes,No,Yes,Yes,36.88,580.80,No
+890588,Male,23,Married,3,Yearly,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,32.76,581.21,No
+890793,Female,74,Single,0,Monthly,"Fiber Optic",No,No,No,Yes,Yes,Yes,Yes,No,28.03,273.72,No
+891556,Female,45,Married,2,Yearly,"Fiber Optic",No,No,No,No,No,Yes,Yes,Yes,80.73,631.79,No
+896830,Female,20,Single,2,Yearly,DSL,Yes,Yes,No,No,Yes,No,Yes,No,32.67,648.46,No
+900413,Female,40,Married,3,Yearly,"Fiber Optic",No,Yes,No,No,Yes,Yes,No,No,93.69,471.81,No
+900945,Female,57,Single,1,Monthly,DSL,No,Yes,No,Yes,Yes,No,No,No,74.02,685.07,No
+901723,Male,49,Married,3,Monthly,DSL,Yes,Yes,Yes,Yes,Yes,Yes,No,No,52.32,703.25,No
+906946,Male,37,Single,3,Yearly,DSL,No,No,Yes,Yes,No,No,Yes,Yes,75.65,570.19,No
+907641,Female,71,Single,2,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,No,Yes,10.32,19.85,No
+908923,Male,48,Married,2,Monthly,"Fiber Optic",Yes,No,No,Yes,No,No,No,No,64.50,76.78,No
+910207,Male,57,Single,1,Yearly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,Yes,Yes,97.07,421.53,Yes
+910948,Male,45,Single,1,Monthly,DSL,Yes,No,No,No,No,No,Yes,No,70.16,118.45,No
+913004,Female,72,Single,0,Yearly,"Fiber Optic",No,Yes,Yes,No,No,Yes,Yes,Yes,59.67,937.34,No
+913736,Male,37,Single,3,Monthly,DSL,No,Yes,No,No,Yes,Yes,No,Yes,15.03,348.28,No
+915426,Male,34,Single,3,Monthly,"Fiber Optic",No,No,No,No,No,No,Yes,No,7.97,767.88,No
+916366,Male,77,Married,1,Yearly,"Fiber Optic",Yes,No,Yes,Yes,Yes,No,No,Yes,70.09,125.01,No
+921557,Female,69,Single,0,Monthly,"Fiber Optic",No,Yes,No,Yes,No,No,Yes,Yes,26.12,9.29,No
+921741,Male,54,Single,1,Yearly,"Fiber Optic",No,No,No,Yes,Yes,No,No,Yes,39.20,550.29,No
+923006,Male,40,Married,3,Yearly,"Fiber Optic",No,Yes,Yes,No,No,No,No,No,55.54,956.18,Yes
+927523,Female,37,Single,3,Yearly,DSL,Yes,Yes,No,Yes,Yes,No,No,Yes,18.04,960.37,No
+930430,Male,58,Married,1,Monthly,"Fiber Optic",Yes,No,No,No,No,Yes,Yes,Yes,75.56,794.89,No
+930502,Female,73,Married,0,Yearly,"Fiber Optic",Yes,No,Yes,No,No,Yes,Yes,No,96.23,751.09,No
+931726,Female,27,Single,2,Yearly,"Fiber Optic",No,No,No,Yes,No,Yes,No,No,57.00,632.50,No
+932975,Male,60,Married,0,Monthly,DSL,Yes,No,Yes,Yes,Yes,Yes,Yes,No,32.46,577.14,No
+933922,Male,72,Married,3,Monthly,"Fiber Optic",Yes,No,No,No,No,Yes,No,Yes,39.95,721.55,No
+941716,Female,40,Married,2,Yearly,DSL,Yes,No,No,No,Yes,Yes,No,Yes,5.11,199.77,No
+941890,Male,56,Single,2,Yearly,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,72.06,61.19,Yes
+945927,Male,29,Married,3,Monthly,DSL,Yes,No,Yes,Yes,No,No,Yes,Yes,58.28,433.57,No
+946623,Male,67,Single,1,Monthly,DSL,Yes,Yes,No,No,No,No,No,No,59.41,461.33,No
+949333,Female,26,Married,0,Yearly,"Fiber Optic",No,No,Yes,No,Yes,Yes,No,Yes,56.60,672.61,No
+952047,Female,61,Married,0,Monthly,"Fiber Optic",No,No,Yes,No,Yes,Yes,Yes,Yes,82.27,988.01,No
+952438,Female,54,Married,3,Monthly,"Fiber Optic",Yes,Yes,No,Yes,No,Yes,No,Yes,19.02,644.53,No
+952768,Female,56,Single,2,Monthly,DSL,No,Yes,Yes,Yes,No,No,Yes,Yes,40.80,637.31,No
+954560,Male,74,Married,0,Monthly,DSL,No,No,Yes,No,Yes,Yes,Yes,No,5.93,421.34,No
+955764,Female,41,Married,3,Monthly,"Fiber Optic",Yes,Yes,Yes,No,Yes,No,No,Yes,46.55,22.57,No
+956384,Male,25,Single,2,Monthly,"Fiber Optic",Yes,No,No,Yes,No,No,No,Yes,95.54,290.69,No
+958956,Female,70,Single,3,Monthly,DSL,No,No,No,No,Yes,No,No,No,29.14,953.90,No
+959149,Female,18,Married,1,Monthly,"Fiber Optic",No,No,Yes,No,Yes,Yes,No,Yes,24.37,736.60,No
+962073,Male,53,Single,2,Monthly,"Fiber Optic",No,Yes,Yes,Yes,Yes,No,Yes,No,70.49,638.97,Yes
+962603,Female,62,Single,1,Monthly,"Fiber Optic",Yes,No,Yes,No,Yes,No,Yes,Yes,94.66,448.21,No
+963232,Male,47,Married,3,Yearly,DSL,Yes,Yes,Yes,No,No,No,Yes,Yes,7.43,55.34,Yes
+966094,Male,51,Single,3,Monthly,DSL,Yes,No,Yes,Yes,No,Yes,Yes,Yes,89.59,333.40,No
+966660,Female,58,Single,3,Monthly,"Fiber Optic",No,Yes,Yes,No,No,No,Yes,No,55.82,872.73,No
+968325,Male,31,Married,2,Monthly,DSL,Yes,Yes,No,No,Yes,No,Yes,Yes,13.50,242.00,No
+969323,Female,55,Married,0,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,No,No,No,22.22,646.46,No
+973402,Female,20,Married,0,Monthly,DSL,No,Yes,No,No,Yes,Yes,No,No,90.90,616.64,No
+976599,Male,50,Married,2,Monthly,DSL,No,Yes,No,Yes,No,Yes,Yes,No,86.53,325.56,Yes
+976928,Male,30,Single,0,Monthly,"Fiber Optic",Yes,Yes,No,Yes,Yes,No,No,No,25.75,340.72,No
+977033,Female,70,Married,3,Monthly,"Fiber Optic",No,Yes,Yes,No,No,Yes,Yes,Yes,93.00,943.53,No
+977558,Male,49,Married,0,Yearly,DSL,No,Yes,Yes,No,No,No,No,Yes,73.66,204.48,No
+978004,Female,26,Married,0,Monthly,"Fiber Optic",No,No,Yes,No,Yes,No,No,Yes,42.59,688.15,Yes
+980827,Female,18,Married,1,Monthly,DSL,No,Yes,No,Yes,No,Yes,Yes,Yes,94.77,471.26,No
+983018,Female,33,Married,0,Monthly,DSL,No,Yes,Yes,Yes,No,No,No,No,91.20,925.36,No
+986000,Female,55,Married,0,Yearly,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,No,Yes,98.19,1.18,Yes
+988434,Male,41,Single,2,Yearly,DSL,No,Yes,Yes,Yes,No,No,Yes,No,69.63,395.44,No
+989401,Male,31,Married,1,Monthly,"Fiber Optic",No,Yes,Yes,No,Yes,No,No,No,62.58,540.37,No
